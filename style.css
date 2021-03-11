@@ -19,11 +19,11 @@
   color: azure;
   margin-bottom: 3rem;
 }
-#harga h3 {
+#harga h4 {
   color: azure;
   margin-bottom: 1rem;
 }
-#harga a {
+#katalog {
   margin-bottom: 5rem;
 }
 .card-header,
@@ -34,4 +34,10 @@
 
 #contact h2 {
   margin-bottom: 3rem;
+}
+
+#price {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #e7008a;
 }
