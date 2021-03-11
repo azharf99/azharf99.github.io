@@ -18,10 +18,12 @@
 #harga h2 {
   color: azure;
   margin-bottom: 3rem;
+  text-align: center;
 }
 #harga h4 {
   color: azure;
   margin-bottom: 1rem;
+  text-align: center;
 }
 #katalog {
   margin-bottom: 5rem;
