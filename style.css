@@ -1,5 +1,5 @@
 .jumbotron {
-  background-color: #e7008a;
+  background-color: #006863;
   color: azure;
 }
 
@@ -7,13 +7,13 @@
   margin-top: 2em;
   max-height: 150px;
   border-radius: 50%;
-  border-color: black;
+  border-color: rgb(228, 245, 0);
   border-style: solid;
   margin-top: 7rem;
 }
 
 #harga {
-  background-color: #e7008a;
+  background-color: #006863;
 }
 #harga h2 {
   color: azure;
@@ -42,4 +42,8 @@
   font-size: 2rem;
   font-weight: bold;
   color: #e7008a;
+}
+
+.tele {
+  background-color: teal;
 }
