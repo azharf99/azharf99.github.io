@@ -47,3 +47,17 @@
 .tele {
   background-color: teal;
 }
+
+#faq {
+  margin-top: 5rem;
+}
+
+#faq h1 {
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 765px) {
+  #kategori {
+    visibility: hidden;
+  }
+}
